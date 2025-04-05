@@ -1,6 +1,6 @@
 # VidCtx: Context-aware Video Question Answering with Image Models
 
-## Introduction
+## Introduction [[Paper preprint](http://arxiv.org/abs/2502.03957)] [[Cite](#citation)]
 
 This repository contains the code for our paper: "VidCtx: Context-aware Video Question Answering with Image Models".
 
