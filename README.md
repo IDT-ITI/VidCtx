@@ -1,4 +1,4 @@
-# VidCtx
+# VidCtx: Context-aware Video Question Answering with Image Models
 
 ## Introduction
 
@@ -100,13 +100,13 @@ python evaluate.py \
 
 If you find our work or code useful, please cite our publication:
 
-Goulas, A., Mezaris, V., Patras, I. "VidCtx: Context-aware Video Question Answering with Image Models." 2025 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2025.
+A. Goulas, V. Mezaris, I. Patras, "VidCtx: Context-aware Video Question Answering with Image Models", IEEE Int. Conf. on Multimedia and Expo (ICME 2025), Nantes, France, June-July 2025.
 
 ```
 @inproceedings{goulas2025vidctx,
   title={VidCtx: Context-aware Video Question Answering with Image Models},
   author={Goulas, Andreas and Mezaris, Vasileios and Patras, Ioannis},
-  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)},
+  booktitle={IEEE Int. Conf. on Multimedia and Expo (ICME 2025)},
   year={2025},
   organization={IEEE}
 }
